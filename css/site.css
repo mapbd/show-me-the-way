@@ -37,11 +37,11 @@
     color:#fff;
 }
 
-#overview_map {
+/* #overview_map {
     height: 300px;
     background:#111;
     position: relative;
-}
+} */
 
 .sq {
     width:300px;
@@ -84,13 +84,13 @@
     color:#fff;
     position: relative;
 }
-
+/* 
 .loading {
     background:url(loader_bg.gif);
     padding:10px;
     color:#000;
     text-align:center;
-}
+} */
 
 .align-bottom {
     bottom:20px;
